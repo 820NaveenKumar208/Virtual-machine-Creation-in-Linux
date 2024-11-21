@@ -2,10 +2,11 @@
 ## NAME: NAVEEN KUMAR T
 ## REG NUMBER: 212223220067
 # VIRTUAL MACHINE CREATION IN LINUX
-  ## AIM
-       To Install Virtualbox / VMware Workstation with different flavours of linux.
+## AIM
+To Install Virtualbox / VMware Workstation with different flavours of linux.
 ## PROBLEM STATEMENT
-    Explain about the Experiment.
+Explain about the Experiment.
+This experiment involves setting up a virtual machine with CentOS, a popular Linux distribution. This setup allows users to practice Linux commands, test applications, and develop software in a virtualized environment without affecting the host system.
 
 ## ALGORITHM
  ### Steps 1:
